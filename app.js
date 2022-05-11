@@ -1,7 +1,9 @@
 const butonlar = document.querySelectorAll('.btn');
+const select1 = document.querySelector('#selected')
 
 for (let i = 0; i < butonlar.length; i++) { butonlar[i].addEventListener('click', function(){
     butonlar[i].classList.toggle('active')
+    select1.innerHTML = i + 1
 })}  
 
 
