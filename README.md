@@ -1,3 +1,3 @@
 # Interactive-Rating-Component
 [Click Here](https://eyyupordueri.github.io/Interactive-Rating-Component/)
-![Click Here](intro.GIF)
+![Click Here](intro.gif)
